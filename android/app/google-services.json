@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24654033951",
+    "firebase_url": "https://homes-6b3df.firebaseio.com",
+    "project_id": "homes-6b3df",
+    "storage_bucket": "homes-6b3df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24654033951:android:288a1c703df7f2ada4912a",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebaseex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24654033951-tc02jnu43er4dlvilj4o1miojkh9p8d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT-kATU8la_coOnhmC6KO4ieU8AHKvNqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24654033951-tc02jnu43er4dlvilj4o1miojkh9p8d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
